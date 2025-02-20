@@ -12,12 +12,6 @@ Welcome to Clothify – the ultimate e-commerce frontend for trendy clothing for
   - [Prerequisites](#prerequisites)
   - [Clone & Setup](#clone--setup)
   - [Install Dependencies](#install-dependencies)
-- [Usage](#usage)
-  - [Development Mode](#development-mode)
-  - [Production Build](#production-build)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
