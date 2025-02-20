@@ -51,3 +51,18 @@ Clothify is a React-based frontend designed for a smooth and intuitive user expe
 
    ```bash
    git clone https://github.com/yourusername/clothify.git
+
+2. **Install Dependencies**
+
+   Open your terminal and run:
+
+   ```bash
+   npm install
+
+3. **Run the App**
+
+   Open your terminal and run:
+
+   ```bash
+   npm run dev
+   
